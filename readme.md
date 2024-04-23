@@ -90,3 +90,42 @@ function $initHighlight(block, cls) {
   )
 }
 ```
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Jorge  | Moreno   | 1234567   |
+| Luis   | Rosania  | 7654321   |
+
+# Citas
+
+Esto es un texto referente a una cita que pondremos debajo:
+
+> Esto es una cita
+
+Esto es otro texto que no se relaciona con la cita anterior:
+
+> Estos es otra cita
+
+# Lineas Divisorias
+
+Esto es un texto que será dividido por guiones medios
+
+---
+
+Esto es un texto que será dividido por asteriscos
+
+---
+
+Esto es un texto que será dividido por guiones bajos
+
+---
+
+# Saltos de línea
+
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
